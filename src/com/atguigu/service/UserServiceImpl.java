@@ -30,6 +30,7 @@ public class UserServiceImpl
 		logger.info("main(String[]) - info");
 		logger.warn("main(String[]) - warn");
 		logger.error("main(String[]) - error");	
+		System.out.println("hllo");
 	}
 
 }
